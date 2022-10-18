@@ -1,0 +1,33 @@
+td{
+border: solid 3px #000000;
+padding: 6px;
+color: darkgray;
+}
+
+thead{
+background: #f00000;
+font-size:30px;
+font-style: italic;
+background: #000000
+
+}
+
+h1{
+color: chartreuse;
+font-size: 50px;
+
+}
+
+input{
+font-size: 40px
+
+
+
+}
+
+.pagina1{
+background: #363636;
+
+
+
+}
